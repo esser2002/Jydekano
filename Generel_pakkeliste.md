@@ -1,12 +1,11 @@
 # Generelt
 
+- Pas
+- Blå sygesikringsbevis
 - Bestik/Spork
 - Tallerken/Skål
 - Kop folde
 - Drikkedunk
-- Opvaskesæbe
-- Opvaskesvamp
-- Viskestykker
 - Regntøj
 - Varmt tøj
 - (Ekstra sko/sandaler)
@@ -14,28 +13,15 @@
 - (Håndklæde)
 - Tandbørste
 - Tandpasta
-- Vådservietter
-- Toiletpapir
 - Håndsprit
-- Skærebræt
-- Kniv
-- Solcreme
 - Kasket
 - Underholdning
 - Dry-bag
-- Skrældeposer
 - Sæbe
 - Powerbank
 - (Ukulele)
-- Myggespray
 - Kikkert
-- Kompas
 - Fanny-pack
-- Tandstikkere
-- Flint og stål
-- Snor
-- Reb
-- (Fisketing?!?)
 
 # Soveting
 
@@ -47,12 +33,22 @@
 # Fælles
 
 - Skærebræt (Jonathan)
-- Knive
-- Førstehjælps ting
-- Skovl
-- Trangia Sæt (Jonathan, Esser)
-- Grydeske/Palletkniv (2 stk)
-- (Presenning)
+- Knive (Kassandra)
+- Førstehjælps ting (Jonathan)
+- Skovl (Jonathan)
+- Trangia Sæt, Jetboil (Jonathan, Esser)
+- Gas (Esser, Jonathan)
+- Grydeske/Palletkniv (2 stk) (Esser)
+- Presenning (Morten)
+- Snor (Morten)
+- Opvaskesæbe (Jonathan)
+- Opvaskesvamp (Marie)
+- Viskestykker (Marie)
+- Flint og stål (Jonathan)
+- Kompas (Esser)
+- Solcreme (Kassandra, Jonathan)
+- Nødradio (Kassandra)
+- Myggespray (Jonathan)
 
 # Mad
 

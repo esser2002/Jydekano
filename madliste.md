@@ -3,6 +3,9 @@
 - Olie
 - Peber
 - Sukker
+- Toiletpapir
+- Vådservietter
+- Skraldeposer
 
 # Søndag aften
 
